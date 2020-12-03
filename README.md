@@ -1,6 +1,2 @@
-"# curso_fullstack" 
-"# curso_fullstack" 
-"# curso_fullstack" 
-"# curso_fullstack" 
-"# curso_fullstack" 
 "# Curso_NodeJS" 
+"# Bootcamp---Machine-Learnig" 
